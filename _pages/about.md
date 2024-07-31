@@ -25,7 +25,7 @@ I have published papers in top journals including Nature Communications, Physica
 
 # 📝 Selected Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/state_learning.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Nature Communications 13 (1), 1-10</div><img src='images/state_learning.PNG' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Flexible learning of quantum states with generative query neural networks](https://www.nature.com/articles/s41467-022-33928-z)
@@ -36,7 +36,7 @@ Yan Zhu*, Ya-Dong Wu\*$^\dagger$, Ge Bai, Dong-Sheng Wang, Yuexuan Wang, Giulio 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><img src='images/state_verification.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><img src='images/state_verification.PNG alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Quantum Similarity Testing with Convolutional Neural Networks](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.210601)
