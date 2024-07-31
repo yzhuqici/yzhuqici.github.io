@@ -64,7 +64,7 @@ Manwen Liao\*, Yan Zhu\*, Giulio Chiribella, Yuxiang Yang$^\dagger$
 # 💬 Contributed Talks
 
 - *2022.11*, 6th Quantum Techniques in Machine Learning (QTML), Naples, Italy.
-- *2023.8*, 23rd Asian Quantum Information Science Conference (AQIS), KIAS, Korea.
+- *2023.08*, 23rd Asian Quantum Information Science Conference (AQIS), KIAS, Korea.
 - *2023.11*, 7th Quantum Techniques in Machine Learning (QTML), CERN, Switzerland.
 - *2024.07*, Quantum Errors, Sensing and Control: Principles, Applications and Engineering (Q-ESCAPE), Shenzhen, China.
 
