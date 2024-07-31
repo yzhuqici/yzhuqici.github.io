@@ -7,7 +7,7 @@ main:
     url: "/#-selected-publications"
 
   - title: "Awards"
-    url: "/#awards"
+    url: "/#-awards"
 
   - title: "Contributed Talks"
     url: "/#-contributed-talks"
