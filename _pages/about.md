@@ -43,7 +43,7 @@ Yan Zhu\*, Ya-Dong Wu\*$^\dagger$, Qiushi Liu, Yuexuan Wang, Giulio Chiribella$^
 
 - In this paper, we introduce a neural network that emulates the unknown process by constructing an internal representation of the input ensemble and by mimicking the action of the process at the state representation level. We show that our model exhibits high accuracy in applications to quantum computing, quantum photonics, and quantum many-body physics.
 
-[Learning quantum properties from short-range correlations using multi-task networks](https://arxiv.org/abs/2308.08815)
+[Learning quantum properties from short-range correlations using multi-task networks](https://arxiv.org/abs/2310.11807)
 
 Ya-Dong Wu\*, Yan Zhu\*$^\dagger$, Yuexuan Wang, Giulio Chiribella$^\dagger$
 
